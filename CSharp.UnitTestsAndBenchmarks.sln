@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptimizationTests", "Optimi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptimizationTestsUnitTests", "OptimizationTestsUnitTests\OptimizationTestsUnitTests.csproj", "{FD091843-0D3D-4A8F-96CC-62BD10EBC316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationFromJsonFile", "OperationFromJsonFile\OperationFromJsonFile.csproj", "{75BF7246-5CBD-4EAC-8359-4BC2CA4FF73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationConsole", "OperationConsole\OperationConsole.csproj", "{233A59AE-055C-4EA9-94C8-9FD8A76433B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FD091843-0D3D-4A8F-96CC-62BD10EBC316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD091843-0D3D-4A8F-96CC-62BD10EBC316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD091843-0D3D-4A8F-96CC-62BD10EBC316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BF7246-5CBD-4EAC-8359-4BC2CA4FF73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BF7246-5CBD-4EAC-8359-4BC2CA4FF73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BF7246-5CBD-4EAC-8359-4BC2CA4FF73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BF7246-5CBD-4EAC-8359-4BC2CA4FF73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233A59AE-055C-4EA9-94C8-9FD8A76433B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233A59AE-055C-4EA9-94C8-9FD8A76433B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233A59AE-055C-4EA9-94C8-9FD8A76433B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233A59AE-055C-4EA9-94C8-9FD8A76433B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
